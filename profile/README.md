@@ -2,15 +2,15 @@
 
 ## ToDo
 
-- [x] SeleRandr
-- [x] SeleBurn
-- [ ] SeleFiles
-- [ ] SeliArchiver
-- [ ] SeliDesktop
-- [ ] SeliPanel
-- [ ] SeleCalc
-- [ ] SeliCam
-- [ ] SeliShot
+- [x] SGRandr
+- [x] SGBurn
+- [ ] SGFiles
+- [ ] SGArchiver
+- [ ] SGDesktop
+- [ ] SGPanel
+- [ ] SGCalc
+- [ ] SGCam
+- [ ] SGShot
 
 
 <p align="center" width="100%">
