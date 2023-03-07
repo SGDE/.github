@@ -4,6 +4,7 @@
 
 - [x] SGRandr
 - [x] SGBurn
+- [x] SGLauncher
 - [ ] SGFiles
 - [ ] SGArchiver
 - [ ] SGDesktop
