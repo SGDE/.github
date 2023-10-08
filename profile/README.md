@@ -3,7 +3,7 @@
 ## ToDo
 
 - [x] SGRandr
-- [x] SGBurn
+- [x] SGNotes
 - [x] SGLauncher
 - [ ] SGFiles
 - [ ] SGArchiver
