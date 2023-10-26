@@ -5,6 +5,7 @@
 - [x] SGRandr
 - [x] SGNotes
 - [x] SGLauncher
+- [x] SGUsers 
 - [ ] SGFiles
 - [ ] SGArchiver
 - [ ] SGDesktop
